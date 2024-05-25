@@ -14,6 +14,11 @@ This project aims to design and develop a drone-based delivery system tailored s
 ## Demonstration
 To provide evidence of our drone-based delivery system's functionality, we have included a simulation video showcasing the drone in action. This video demonstrates how the drone navigates through challenging terrains and adapts to dynamic weather conditions to ensure uninterrupted delivery.
 
+#Contributions
+- **Research and UI Development**: @Souptik Taran, Mayur K T, and Girish Sharma contributed to the research work and the development of the user interface for the map, ensuring a seamless and intuitive experience for users.
+
+- **Simulation Development**: Om Gupta utilized Unreal Engine and Blender to create the simulation video showcasing the drone's functionality. His expertise in simulation development added a visual dimension to our project, providing clear evidence of our system's capabilities.
+
 ## Conclusion
 Our drone-based delivery system demonstrates technical resilience, showcasing robustness in navigating through challenging terrains and adapting to dynamic weather conditions. Leveraging route optimization algorithms through open-source APIs, our system ensures precision navigation, enabling efficient and accurate delivery operations to remote and inaccessible areas. With its user-friendly interface and advanced features, our system enhances accessibility and usability for operators and recipients alike, addressing the logistical challenges posed by Sikkim's geographical landscape.
 
