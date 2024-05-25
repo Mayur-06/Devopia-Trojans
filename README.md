@@ -16,3 +16,6 @@ To provide evidence of our drone-based delivery system's functionality, we have 
 
 ## Conclusion
 Our drone-based delivery system demonstrates technical resilience, showcasing robustness in navigating through challenging terrains and adapting to dynamic weather conditions. Leveraging route optimization algorithms through open-source APIs, our system ensures precision navigation, enabling efficient and accurate delivery operations to remote and inaccessible areas. With its user-friendly interface and advanced features, our system enhances accessibility and usability for operators and recipients alike, addressing the logistical challenges posed by Sikkim's geographical landscape.
+
+## Recognition
+Team Trojans, the developers behind this project, are proud winners of the first prize in Devopia hackathon on the 3rd week of April 2024 conducted at Sikkim Manipal Institute of Technology. This recognition validates our system's innovation and effectiveness in addressing the logistical challenges of drone-based delivery in challenging terrains like Sikkim, India.
