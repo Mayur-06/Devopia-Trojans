@@ -14,7 +14,7 @@ This project aims to design and develop a drone-based delivery system tailored s
 ## Demonstration
 To provide evidence of our drone-based delivery system's functionality, we have included a simulation video showcasing the drone in action. This video demonstrates how the drone navigates through challenging terrains and adapts to dynamic weather conditions to ensure uninterrupted delivery.
 
-#Contributions
+## Contributions
 - **Research and UI Development**: @Souptik Taran, Mayur K T, and Girish Sharma contributed to the research work and the development of the user interface for the map, ensuring a seamless and intuitive experience for users.
 
 - **Simulation Development**: Om Gupta utilized Unreal Engine and Blender to create the simulation video showcasing the drone's functionality. His expertise in simulation development added a visual dimension to our project, providing clear evidence of our system's capabilities.
